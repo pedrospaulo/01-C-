@@ -1,0 +1,13 @@
+/home/pedro/OnlineJudge/URI Online Judge/01 - C++/1-Iniciante/3065.cpp: In function ‘int main()’:
+/home/pedro/OnlineJudge/URI Online Judge/01 - C++/1-Iniciante/3065.cpp:20:25: error: invalid conversion from ‘char’ to ‘const char*’ [-fpermissive]
+         if(strcmp(oper[1], "+" == 0)){
+                   ~~~~~~^
+/home/pedro/OnlineJudge/URI Online Judge/01 - C++/1-Iniciante/3065.cpp:20:36: error: cannot convert ‘bool’ to ‘const char*’ for argument ‘2’ to ‘int strcmp(const char*, const char*)’
+         if(strcmp(oper[1], "+" == 0)){
+                                    ^
+/home/pedro/OnlineJudge/URI Online Judge/01 - C++/1-Iniciante/3065.cpp:27:29: error: invalid conversion from ‘char’ to ‘const char*’ [-fpermissive]
+             if(strcmp(oper[j] , "+" == 0)){
+                       ~~~~~~^
+/home/pedro/OnlineJudge/URI Online Judge/01 - C++/1-Iniciante/3065.cpp:27:41: error: cannot convert ‘bool’ to ‘const char*’ for argument ‘2’ to ‘int strcmp(const char*, const char*)’
+             if(strcmp(oper[j] , "+" == 0)){
+                                         ^
